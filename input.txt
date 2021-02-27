@@ -1,0 +1,8 @@
+5
+3
+Lesson1,Lesson2,Lesson3,Lesson4,Lesson5
+Lesson6,Lesson7,Lesson8,Lesson9,Lesson10
+Lesson12,Lesson13,Lesson14,Lesson15,Lesson16
+Group1:Lesson2,Lesson14,Lesson15,Lesson16
+Group2:Lesson1,Lesson5,Lesson7,Lesson9
+Group3:Lesson4,Lesson9,Lesson15,Lesson16

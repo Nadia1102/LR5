@@ -1,0 +1,4 @@
+Корректно
+Lesson1,Lesson9,Lesson16,Lesson7,Lesson10
+Lesson2,Lesson4,Lesson5,Lesson6,Lesson8
+Lesson3,Lesson10,Lesson13,Lesson11,Lesson14
